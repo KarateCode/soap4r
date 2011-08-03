@@ -183,7 +183,7 @@ Gem::Specification.new do |s|
     "lib/xsd/codegen/moduledef.rb",
     "lib/xsd/codegen.rb",
     "lib/xsd/datatypes.rb",
-    "lib/xsd/datatypes1999.",rb
+    "lib/xsd/datatypes1999.rb",
     "lib/xsd/iconvcharset.rb",
     "lib/xsd/mapping.rb",
     "lib/xsd/namedelements.rb",
