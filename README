@@ -1,0 +1,5 @@
+This is a hacked version of the original soap4r gem.  It is intended to run on Ruby 1.9 and Rails 3.
+
+To use this gem in your Rails project, simply include the following in your Gemfile:
+  
+  gem 'soap4r', '>= 0.1', :git => "https://github.com/KarateCode/soap4r.git"
