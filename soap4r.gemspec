@@ -194,8 +194,8 @@ Gem::Specification.new do |s|
     "lib/xsd/xmlparser/rexmlparser.rb",
     "lib/xsd/xmlparser/xmlparser.rb",
     "lib/xsd/xmlparser/xmlscanner.rb",
-    "lib/xsd/xmlparser.rb"
-     "soap4r.gemspec"
+    "lib/xsd/xmlparser.rb", 
+    "soap4r.gemspec"
   ]
   s.homepage = %q{http://github.com/KarateCode/soap4r}
   s.rdoc_options = ["--charset=UTF-8"]
