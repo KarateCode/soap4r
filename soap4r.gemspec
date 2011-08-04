@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors = ["Michael Schneider"]
   s.date = %q{2011-08-03}
   s.description = %q{This gem is a tool for easily creating soap functionality}
-  s.email = %q{bill@billgathen.com}
+  s.email = %q{michael.schneider@adtegrity.com}
   s.extra_rdoc_files = [
      "README",
      "TODO"
